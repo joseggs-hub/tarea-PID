@@ -1,0 +1,23 @@
+Manual de Usuario Breve
+•	Ventana: Adicionar categoría del plan
+•	Descripción:
+Esta ventana permite agregar una nueva categoría al plan, ingresando los datos requeridos y una descripción personalizada.
+
+	Pasos para utilizar la ventana
+•	Abrir la ventana
+•	Haz clic en el botón correspondiente de tu sistema para abrir la ventana “Adicionar categoría del plan”.
+•	Completar los datos
+•	Denominación: Escribe el nombre de la categoría. Este campo es obligatorio (*).
+•	Fecha inicio: Selecciona la fecha de inicio usando el calendario o escribiéndola directamente. Este campo es obligatorio (*).
+•	Fecha fin: (Opcional) Selecciona la fecha de finalización si es necesario.
+•	Estructura: Marca la casilla si la categoría corresponde a una estructura.
+•	Descripción: Escribe la descripción de la categoría. Puedes usar las herramientas de formato (negrita, cursiva, subrayado, resaltado, listas, etc.) para personalizar el texto.
+	Guardar o cancelar
+•	Cancelar: Haz clic en el botón “Cancelar” para cerrar la ventana sin guardar los cambios.
+•	Aplicar: Haz clic en “Aplicar” para guardar los datos sin cerrar la ventana, permitiendo seguir editando.
+•	Aceptar: Haz clic en “Aceptar” para guardar los datos y cerrar la ventana. Usa la flecha al lado de “Aceptar” para ver más opciones, como “Aceptar y Nuevo” o “Aceptar y Cerrar”.
+
+Notas:
+•	Los campos marcados con * son obligatorios.
+•	Si falta algún dato obligatorio, el sistema mostrará un mensaje de advertencia.
+•	Puedes cambiar el formato del texto de la descripción usando la barra de herramientas.
