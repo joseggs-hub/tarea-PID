@@ -1,0 +1,90 @@
+ /* Colores personalizados */
+ .modal-header,
+ .modal-footer {
+     background-color: #a285be;
+     color: #fff;
+ }
+
+ .modal-title {
+     color: #fff;
+ }
+
+ .btn-purple {
+     background-color: #a285be;
+     color: #fff;
+     border: none;
+ }
+
+ .btn-purple:hover,
+ .btn-purple:focus {
+     background-color: #8d6bb8;
+     color: #fff;
+ }
+
+ .btn-outline-purple {
+     border: 1px solid #a285be;
+     color: #a285be;
+     background: #fff;
+ }
+
+ .btn-outline-purple:hover {
+     background: #a285be;
+     color: #fff;
+ }
+
+ .form-label.required:after {
+     content: " *";
+     color: #d9534f;
+ }
+
+ .toolbar .btn {
+     border: none;
+     background: transparent;
+     color: #888;
+     font-size: 1.1rem;
+     padding: 0 0.5rem;
+ }
+
+ .toolbar .btn.active,
+ .toolbar .btn:focus {
+     color: #a285be;
+     background: #e9e2f3;
+ }
+
+ .toolbar select {
+     width: auto;
+     display: inline-block;
+     margin-right: 8px;
+ }
+
+ .form-check-input:checked {
+     background-color: #a285be;
+     border-color: #a285be;
+ }
+
+ /* Bordes y fondo del editor */
+ #description {
+     min-height: 120px;
+     border: 1px solid #ccc;
+     border-radius: 0.25rem;
+     padding: 0.5rem;
+     background: #fff;
+ }
+
+ /* Modal tamaño y bordes */
+ .modal-content {
+     border-radius: 0.5rem;
+     border: 2px solid #a285be;
+ }
+
+ /* Botón dropdown */
+ .btn-group .dropdown-toggle {
+     border-radius: 0 0.375rem 0.375rem 0;
+     border-left: none;
+ }
+
+ /* Footer alineación */
+ .modal-footer {
+     justify-content: flex-end;
+     gap: 0.5rem;
+ }
